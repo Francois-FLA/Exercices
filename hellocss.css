@@ -54,7 +54,7 @@ h3 {
 }
 
 #pave2 {
-    height: 170px;
+    height: 180px;
     width: 120px;
     float: right;
 }
@@ -62,6 +62,8 @@ h3 {
 #pave2 p {
     background-color: aquamarine;
 }
+
+
 
 .clear {
     clear: both;
